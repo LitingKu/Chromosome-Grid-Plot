@@ -1,4 +1,4 @@
-[Home](https://litingku.github.io) |   | [💻 Lab Work](https://litingku.github.io/about.html)
+[Home](https://litingku.github.io)| [💻 Lab Work](https://litingku.github.io/about.html)
 
 # Chromosome-Grid-Plot
 

@@ -84,7 +84,7 @@ source("./R function files/Human_Normalchrgrid.R")
 # model1, model2, model3 are dataframes
 
 df_list <- list(model1, model2, model3)
-model_name <- c("MUT-WT", "GOF-WT","GOF-EV",)
+model_name <- c("MUT-WT", "GOF-WT","GOF-EV")
 title <- c("All Events in Human")
 
 ## run the function

@@ -1,3 +1,5 @@
+[Home](index.md) |   | [💻 Lab Work](about.md)
+
 # Chromosome-Grid-Plot
 
 The main purpose for creating chromosome grid plot is to undersatnding the most affected chromosome that has alternative splicing events happened.

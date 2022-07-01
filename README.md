@@ -81,6 +81,7 @@ setwd("/Users/Desktop/Grid Funcitons")
 source("./R function files/Human_Normalchrgrid.R")
 
 ## create the variable
+# model1, model2, model3 are dataframes
 
 df_list <- list(model1, model2, model3)
 model_name <- c("MUT-WT", "GOF-WT","GOF-EV",)
